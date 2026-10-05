@@ -4,8 +4,6 @@ An interactive Power BI dashboard that looks at consumer financial complaints: w
 
 **Tools used:** Power BI, DAX, Power Query
 
----
-
 ## 💭 Why I built this
 
 Complaint data is one of the clearest signals of where a financial product is failing its customers. I wanted to go past "how many complaints are there" and answer the questions a regulator or a product team would actually ask:
@@ -15,14 +13,11 @@ Complaint data is one of the clearest signals of where a financial product is fa
 - Which companies stand out, for good or bad reasons?
 - Once a complaint is lodged, does it actually get resolved, and does the way it was submitted make a difference?
 
----
 ## ⌗ The Data
 
 - **Source:** Consumer Financial Protection Bureau (CFPB) Consumer Complaint Database
 - **Period covered:** May 2017 – August 2023
 - **Size:** 62,516 complaints and 1,081 companies
-
----
 
 ## 🔍 Key Insights
 
@@ -31,8 +26,6 @@ Complaint data is one of the clearest signals of where a financial product is fa
 - **The most common complaints aren't always the most harmful:** Credit cards (23.5%) and checking/savings accounts (21.8%) also have the highest monetary relief rates. Credit reporting complaints (2.3%), by contrast, rarely lead to any relief.
 - **Web is the bottleneck:** Around 87% of complaints come in through the web. Postal mail is actually answered on time more often, but because web carries most of the workload, faster web processing would do the most for overall performance.
 - **Company size isn't the explanation:** Large, medium and small companies all respond on time at similar rates. Once complaints are measured against market share, the highest-risk companies turn out not to be the biggest ones.
-
----
 
 ## 📊 How the dashboard is organised
 
