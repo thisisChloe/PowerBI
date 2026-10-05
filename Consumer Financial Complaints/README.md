@@ -6,24 +6,6 @@ An interactive, five-page Power BI dashboard that analyses ~9,000 consumer compl
 
 ---
 
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| [CFCA.pbix](CFCA.pbix) | Power BI report file |
-| [CFCA-Dataset.xlsx](CFCA-Dataset.xlsx) | Source dataset |
-
----
-
-## 🎯 Business Questions
-
-1. How many complaints are coming in, and is the system getting better or worse over time?
-2. Which financial products and issues are driving the most complaints?
-3. Which companies are under-performing once their size is taken into account?
-4. How quickly and how fairly are complaints resolved, and does the submission channel make a difference?
-
----
-
 ## 🧭 Dashboard Structure
 
 | Page | Focus | Key visuals |
