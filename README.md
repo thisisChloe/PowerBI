@@ -6,5 +6,4 @@ Welcome to my **Power BI Portfolio**, where I document data analytics projects b
 
 [💳 Consumer Financial Complaints](https://github.com/thisisChloe/PowerBI/tree/main/Consumer%20Financial%20Complaints)
 
-Interactive Power BI dashboard analysing consumer complaints about financial products and services, exploring complaint volumes over time, the products and issues driving them, and how companies respond.
-Tools used: Power BI, DAX, Power Query.
+An interactive Power BI dashboard that looks at consumer financial complaints: what people complain about, which companies they complain about, and how well those complaints get resolved.
