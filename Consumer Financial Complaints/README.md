@@ -4,7 +4,7 @@ An interactive Power BI dashboard that looks at consumer financial complaints: w
 
 **Tools used:** Power BI, DAX, Power Query
 
-**Live report:** [View the interactive dashboard](https://app.powerbi.com/groups/me/reports/8f61289d-9ec5-4d64-acf4-00c99b49f32f?ctid=784e9aa8-b8f4-4aa9-b183-19811619b9ee&pbi_source=linkShare)
+**Live report:** [View the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGJjOTZkZWUtN2ZlZC00N2FhLWI4MjEtZWY4YjVmNmExYzNhIiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9)
 
 ## 💭 Why I built this
 
