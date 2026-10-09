@@ -2,7 +2,7 @@
 
 An interactive Power BI report that looks at how a software business makes its money: which plans and deals drive revenue, how loyal customers are, and where money is being lost through refunds and promo codes.
 
-**Tools used:** Power BI, DAX, Power Query, Deneb (Vega-Lite), HTML Content, SVG
+**Tools used:** Power BI, DAX, Power Query, Deneb (Vega-Lite), SVG
 
 **Live report:** [View the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjZhZmRiMzItMGM4My00ZDU2LWFmYjUtY2U1YTU3MjA2N2Q2IiwidCI6Ijc4NGU5YWE4LWI4ZjQtNGFhOS1iMTgzLTE5ODExNjE5YjllZSJ9)
 
