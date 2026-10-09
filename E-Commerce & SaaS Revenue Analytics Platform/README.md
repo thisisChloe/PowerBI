@@ -73,4 +73,5 @@ This page follows groups of customers from their first purchase to see how many 
 
 This page looks at where money is leaking out of the business. It shows the main reasons for refunds and which products they come from, then checks how promo codes are actually being used, including welcome codes used by repeat customers and seasonal codes redeemed out of season.
 
-<img width="996" alt="Refunds and Promotions" src="https://github.com/user-attachments/assets/2ed11578-4417-4bbd-879d-ff84966280e9" />
+<img width="1032" height="559" alt="Screenshot 2026-10-10 at 10 32 41 am" src="https://github.com/user-attachments/assets/3c536b00-7297-4090-89c0-801108ee729b" />
+
