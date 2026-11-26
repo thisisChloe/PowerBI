@@ -8,7 +8,6 @@
         (the "Payroll Dataset Generator" folder). The path is read by the
         SQL Server service, so it must be on the same machine.
      2. Run the whole script in SSMS or Azure Data Studio.
-     3. Run Tests.sql to check the results.
    ===================================================================== */
 
 /* ---------------------------------------------------------------------
@@ -719,7 +718,6 @@ GO
 -- marts.fact_employee_leaves
 -- Every leave record in the source is a single day (start = end), so the
 -- pay period of the start date is the pay period of the whole leave.
--- Tests.sql checks this assumption.
 CREATE OR ALTER VIEW marts.fact_employee_leaves AS
 SELECT
     l.leave_id    AS leave_pk,
@@ -747,7 +745,7 @@ LEFT JOIN marts.dim_dates AS d
 GO
 
 -- marts.fact_roster
--- source_pay_period_id is kept for reconciliation (see Tests.sql).
+-- source_pay_period_id is the pay period from the source file, kept for comparison.
 CREATE OR ALTER VIEW marts.fact_roster AS
 SELECT
     r.roster_id   AS roster_pk,
@@ -802,7 +800,7 @@ LEFT JOIN marts.dim_dates AS d
 GO
 
 -- marts.fact_timesheet
--- source_pay_period_id is kept for reconciliation (see Tests.sql).
+-- source_pay_period_id is the pay period from the source file, kept for comparison.
 CREATE OR ALTER VIEW marts.fact_timesheet AS
 SELECT
     t.timesheet_id AS timesheet_pk,
