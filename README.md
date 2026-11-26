@@ -15,3 +15,7 @@ An interactive Power BI report that looks at how a software business makes its m
 ### [📦 Business Performance & Supply Chain Dashboard](https://github.com/thisisChloe/PowerBI/tree/main/Business%20Performance%20%26%20Supply%20Chain%20Dashboard)
 
 An interactive Power BI dashboard that tracks how a retail business is selling, who it's selling to, and how well it gets orders to customers, bringing sales, customers and supply chain together in one report.
+
+### [💰 Payroll Dashboard](https://github.com/thisisChloe/PowerBI/tree/main/Payroll%20Dashboard)
+
+A Power BI dashboard built on a payroll data warehouse: a SQL pipeline (landing → staging → marts) turns raw employee, timesheet, roster, leave, bonus and allowance data into a model for HR and finance analysis. *(In progress)*
